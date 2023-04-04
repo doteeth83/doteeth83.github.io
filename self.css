@@ -22,7 +22,7 @@
     }
 }
 .self_page{
-    background-color: bisque;
+    background-color: lightblue;
     font-family: KCCChassam;
 }
 .information{
@@ -37,7 +37,7 @@ button {
 }
 a.home_key{
     text-decoration: none;
-    color: rgb(232, 86, 86);
+    color: rgb(12, 19, 238);
 }
 .back {
     position: relative;
@@ -46,13 +46,13 @@ a.home_key{
     min-height: 50px;
     background: linear-gradient(
         90deg,
-        rgb(248, 255, 144) 0%,
-        rgb(237, 255, 77) 100%
+        rgb(147, 203, 248) 0%,
+        rgb(63, 111, 242) 100%
     );
     border-radius: 1000px;
-    color: rgb(245, 202, 84);
+    color: rgb(21, 5, 244);
     cursor: pointer;
-    box-shadow: 12px 12px 24px rgb(245, 202, 84);
+    box-shadow: 12px 12px 24px rgb(84, 116, 245);
     font-weight: 700;
     transition: 0.3s;
 }
@@ -67,7 +67,7 @@ a.home_key{
     width: 30px;
     height: 30px;
     border-radius: 100%;
-    border: 6px solid #fff174;
+    border: 6px solid #74d3ff;
     position: absolute;
     z-index: -1;
     top: 50%;
