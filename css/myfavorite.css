@@ -38,8 +38,8 @@ font-style: normal;
         min-height: 50px;
         background: linear-gradient(
             90deg,
-            rgb(147, 203, 248) 0%,
-            rgb(63, 111, 242) 100%
+            rgb(147, 203, 248) 20%,
+            rgb(208, 215, 234) 80%
         );
         border-radius: 1000px;
         color: rgb(21, 5, 244);
@@ -59,7 +59,7 @@ font-style: normal;
         width: 30px;
         height: 30px;
         border-radius: 100%;
-        border: 6px solid #74d3ff;
+        border: 6px solid #58c4f7;
         position: absolute;
         z-index: -1;
         top: 50%;
@@ -85,6 +85,16 @@ font-style: normal;
 
    i{
     font-size: 30px;
+    background: linear-gradient(
+            90deg,
+            #cadfe9 20%,
+            rgb(37, 68, 208) 50%
+           
+        );
+        color: transparent;
+    -webkit-background-clip: text;
+
+
    }
 
   

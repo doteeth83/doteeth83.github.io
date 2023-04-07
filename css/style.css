@@ -25,7 +25,7 @@ li{
 .nav-menu{
     float: right;
     position: relative;
-    margin-right: 40px;
+    margin-right: 50px;
 }
 .menu{
     margin: 0;
@@ -45,6 +45,7 @@ ul.menu > li {
 img{
     width: 500px;
     float: left;
+    border-radius: round;
 }
 
 .img{
